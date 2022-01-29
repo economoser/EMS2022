@@ -28,4 +28,4 @@ The RAMS, LISA, LOUISE, and FEK datasets are confidential and therefore not uplo
 
 ## References
 
-[Engbom, Niklas, Christian Moser, and Jan Sauermann. 2022. "Firm Pay Dynamics." Journal of Econometrics, forthcoming.](https://ssrn.com/abstract=3531250)
+[Engbom, Niklas, Christian Moser, and Jan Sauermann. 2022. "Firm Pay Dynamics." Accepted at the *Journal of Econometrics*.](https://ssrn.com/abstract=3531250)
