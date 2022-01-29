@@ -23,7 +23,7 @@ The RAMS, LISA, LOUISE, and FEK datasets are confidential and therefore not uplo
 16. **[comma_separator.m](comma_separator.m)**: Auxiliary file to produce comma-separated output files, based on code by user Image Analyst posted in December 2016 on the [MATLAB Answers Forum](https://www.mathworks.com/matlabcentral/answers/315519-how-to-display-data-with-commas-or-spaces).
 17. **[csv2mat_block.m](csv2mat_block.m)**: Auxiliary file to produce a block matrix, based on code by S. Hsiang (smh2137@columbia.edu) written in May 2010.
 18. **[csv2mat_numeric.m](csv2mat_numeric.m)**: Auxiliary file to produce a structure, based on code by S. Hsiang (smh2137@columbia.edu) written in May 2010.
-19. **[_LeaveOutTwoWay_3_02_Chris](_LeaveOutTwoWay_3_02_Chris)**: Lightly edited version of the Github repository by [Raffaele Saggio](https://sites.google.com/site/raffaelesaggio/), available as [repository LeaveOutTwoWay by rsaggio87 on Github](https://github.com/rsaggio87/LeaveOutTwoWay).
+19. **[_LeaveOutTwoWay_3_02_Chris](_LeaveOutTwoWay_3_02_Chris)**: Lightly edited version of the Github repository by [Raffaele Saggio](https://sites.google.com/site/raffaelesaggio/), available as [Github repository LeaveOutTwoWay by rsaggio87](https://github.com/rsaggio87/LeaveOutTwoWay).
 
 
 ## References
