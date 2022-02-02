@@ -30,4 +30,4 @@ The RAMS, LISA, LOUISE, and FEK datasets are confidential and therefore not uplo
 
 [Engbom, Niklas, Christian Moser, and Jan Sauermann. 2022. "Firm Pay Dynamics." Accepted at the *Journal of Econometrics*.](https://ssrn.com/abstract=3531250)
 
-[Kline, Patrick, Raffaele Saggio, and Mikkel Sølvsten. 2019. Leave‐Out Estimation of Variance Components."_*Econometrica*, 88(5), pp. 1859-1898.](https://doi.org/10.3982/ECTA16410)
+[Kline, Patrick, Raffaele Saggio, and Mikkel Sølvsten. 2019. Leave‐Out Estimation of Variance Components." *Econometrica*, 88(5), pp. 1859-1898.](https://doi.org/10.3982/ECTA16410)
